@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0010/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 小法滅盡經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2874.xml
+    old_id: T85n2874
+hash: sha256:589ceb4a0cad5e612e6366690735f5abcd4d76a7c70511cb165c152347fe399e

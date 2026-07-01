@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6u0010/T/v1
+canonical_location: https://kanripo.org/bkk/KR6u0010/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 小法滅盡經
+  identifiers:
+    krp: KR6u0010
+    cbeta: T85n2874
+    cbeta_old_id: T85n2874
+    authorityid: CA0004893
+    json_key: T2874
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2874.xml
+    old_id: T85n2874
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0010_000-T.yaml, hash: 'sha256:589ceb4a0cad5e612e6366690735f5abcd4d76a7c70511cb165c152347fe399e'}
+  - {seq: 1, filename: KR6u0010_001-T.yaml, hash: 'sha256:c87054198dd150cc92fb4cf0c5137ed0c4cabbfe31ec465766b43c725bfeec12'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6u0010_000-T.markers.yaml, hash: 'sha256:db37cc020ae08d7a6b06ae93d85e77a4cf2fd6c69107a1d20ea0364f27dacfbd'}
+  - {seq: 1, role: markers, filename: assets/KR6u0010_001-T.markers.yaml, hash: 'sha256:aa6b96ad7f371c73b323465e26843bc206feb7b1d2d838330b00ffa931e2e221'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6u0010_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 656
+  label: 佛說小法滅盡經
+  type: juan
+  level: 1
+hash: sha256:06ed1a44e850006c2a8a03c7ab221d7fceb904c26df7491f317474f0f703aba3
