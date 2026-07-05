@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6u0010_000.yaml, hash: 'sha256:589ceb4a0cad5e612e6366690735f5abcd4d76a7c70511cb165c152347fe399e'}
-  - {seq: 1, filename: KR6u0010_001.yaml, hash: 'sha256:65f405ffc05a380e6a40e91f7ef9f77f6764916683bfa0fc5bbc05fc2975de6a'}
+  - {seq: 1, filename: KR6u0010_001.yaml, hash: 'sha256:c87054198dd150cc92fb4cf0c5137ed0c4cabbfe31ec465766b43c725bfeec12'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6u0010_001.markers.yaml, hash: 'sha256:3219752eeb92b162a02c7f32c6366cd291b71f07eff4c29ea405153c7e60d470'}
+  - {seq: 0, role: markers, filename: assets/KR6u0010_000.markers.yaml, hash: 'sha256:a75a9518a0cc090887660bcdc854198588121d36c6f0cb8aabd32cb7f8f052b3'}
+  - {seq: 1, role: markers, filename: assets/KR6u0010_001.markers.yaml, hash: 'sha256:fbe9bdeaa020585b84d2f66b89e6e33b8c7dfcbf621de40fac0659327b81426e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 佛說小法滅盡經
   type: juan
   level: 1
-hash: sha256:2bccba79a00e37c8e0b19077cf03a123e0b076280702961c90805050fb74e781
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0f39f70935a3b53bf1f4ec1a7fcb8ea904f21dfe04c6ecfe0981a8a5508030db
 editions:
 - short: T
