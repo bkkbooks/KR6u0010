@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6u0010/v1
 canonical_location: https://kanripo.org/bkk/KR6u0010/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 小法滅盡經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6u0010_000.yaml, hash: 'sha256:589ceb4a0cad5e612e6366690735f5abcd4d76a7c70511cb165c152347fe399e'}
-  - {seq: 1, filename: KR6u0010_001.yaml, hash: 'sha256:c87054198dd150cc92fb4cf0c5137ed0c4cabbfe31ec465766b43c725bfeec12'}
+  - {seq: 1, filename: KR6u0010_001.yaml, hash: 'sha256:a5f803e542043ae698240ac7e3b071e5c85886f244a0caada473abcb1db7bf15'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6u0010_000.markers.yaml, hash: 'sha256:a75a9518a0cc090887660bcdc854198588121d36c6f0cb8aabd32cb7f8f052b3'}
-  - {seq: 1, role: markers, filename: assets/KR6u0010_001.markers.yaml, hash: 'sha256:fbe9bdeaa020585b84d2f66b89e6e33b8c7dfcbf621de40fac0659327b81426e'}
+  - {seq: 1, role: markers, filename: assets/KR6u0010_001.markers.yaml, hash: 'sha256:5bd913c7c0d183f5d95366129a36c6d5319f6e4dc3f30300473922fe41e1054a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 佛說小法滅盡經
   type: juan
   level: 1
-hash: sha256:0f39f70935a3b53bf1f4ec1a7fcb8ea904f21dfe04c6ecfe0981a8a5508030db
+hash: sha256:dba97de3182159212d1a3b552c7d1d2eba712ee9062c7a61e9687e745074b494
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
